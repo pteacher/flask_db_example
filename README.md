@@ -1,5 +1,8 @@
-# flask_db_example
-Flask example for COM20 students
+# install dependecies first
+
+```
+pip install Flask
+```
 
 # Tutorial used
 
